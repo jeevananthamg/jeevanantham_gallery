@@ -1,5 +1,5 @@
 name: Photo gallery
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 permalink: /:year/:month/:title/
 url: https://jeevananthamg.github.io/

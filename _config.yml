@@ -2,7 +2,7 @@ name: Photo gallery
 markdown: kramdown
 pygments: true
 permalink: /:year/:month/:title/
-url: http://jeevananthamg.github.io/jeevanantham_gallery/
+url: jeevanantham_gallery/
 author:
     name: Nii Adjetey Sowah
     twitter: #
